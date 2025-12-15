@@ -1,0 +1,81 @@
+/* src/components/product/payment.css */
+
+.payment-success-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #fafafa;
+}
+
+.payment-success-box {
+    width: 480px;
+    background: #fff;
+    border-radius: 14px;
+    padding: 45px 40px;
+    text-align: center;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.payment-success-icon {
+    width: 90px;
+    margin-bottom: 20px;
+}
+
+.payment-success-box h2 {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+
+.payment-success-box p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 32px;
+    line-height: 1.6;
+}
+
+.payment-order-info {
+    background: #f4f4f4;
+    padding: 14px 18px;
+    border-radius: 8px;
+    margin-bottom: 28px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+.payment-order-info .label {
+    color: #555;
+    font-weight: 600;
+}
+
+.payment-order-info .value {
+    color: #222;
+    font-weight: 700;
+}
+
+.payment-btn-black {
+    width: 100%;
+    padding: 14px 0;
+    background: #222;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 12px;
+}
+
+.payment-btn-white {
+    width: 100%;
+    padding: 14px 0;
+    background: #fff;
+    border: 1px solid #999;
+    color: #222;
+    font-size: 16px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+}

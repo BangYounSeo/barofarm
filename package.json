@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "dependencies": {
+    "pip": "^0.0.1",
+    "recharts": "^3.4.1"
+  }
+}

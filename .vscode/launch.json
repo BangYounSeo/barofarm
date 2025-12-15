@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AdminDashboardService",
+            "request": "launch",
+            "mainClass": "com.barofarm.barofarm.service.admin.AdminDashboardService",
+            "projectName": "barofarm"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BarofarmApplication<barofarm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.barofarm.barofarm.BarofarmApplication",
+            "projectName": "barofarm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

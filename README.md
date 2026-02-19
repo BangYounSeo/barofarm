@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Barofarm&fontSize=48&fontColor=4B6BFB)
 
-<br/>
-
 ## [프로젝트 소개]
 
 Barofarm은 농산물 직거래와 가격 예측을 지원하는 참여형 플랫폼입니다.  

@@ -198,4 +198,4 @@ DB 접속 정보는 보안 및 환경 분리를 위해 Git에 직접 포함하�
 
 <br/>
 
-#### 프로젝트 발표 자료(PPT) : https://drive.google.com/file/d/1z8lSkw8Mnkx5wUaha8YqkDgpFXgHOQ1m/view?usp=drive_link
+**프로젝트 발표 자료(PPT)** : https://drive.google.com/file/d/1z8lSkw8Mnkx5wUaha8YqkDgpFXgHOQ1m/view?usp=drive_link
